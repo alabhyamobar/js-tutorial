@@ -1,0 +1,24 @@
+#sub{
+   border: none;
+   background-color: black;
+   color: white;
+   padding-top:10px ;
+   padding-bottom:10px ;
+   padding-left: 15px;
+   padding-right: 15px;
+   border-radius: 50px; 
+   cursor: pointer;
+}
+
+#cost{
+    font-size: 20px;
+    padding: 10px;
+}
+#enter{
+    background-color: green;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding: 12px 15px;
+    cursor: pointer;
+}
